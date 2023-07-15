@@ -1,0 +1,1097 @@
+﻿Acacia Button(minecraft:acacia_button),,0
+Acacia Door(minecraft:acacia_door),430,0
+Acacia Fence Gate(minecraft:acacia_fence_gate),187,0
+Acacia Pressure Plate(minecraft:acacia_pressure_plate),,0
+Acacia Sign(minecraft:acacia_sign),,0
+Acacia Stairs(minecraft:acacia_stairs),163,0
+Acacia Trapdoor(minecraft:acacia_trapdoor),,0
+Activator Rails(minecraft:activator_rail),157,0
+Air(minecraft:air),0,0
+Allow Block(minecraft:allow),3721,0
+Andesite Stairs(minecraft:andesite_stairs),,0
+Anvil(minecraft:anvil),145,0
+Slightly Damaged Anvil(minecraft:anvil),145,4
+Very Damaged Anvil(minecraft:anvil),145,8
+Apple(minecraft:apple),260,0
+Enchanted Golden Apple(minecraft:appleenchanted),466,0
+Armor Stand(minecraft:armor_stand),416,0
+Arrow(minecraft:arrow),262,0
+Arrow of Night Vision (0:22)(minecraft:arrow),262,6
+Arrow of Night Vision (1:00)(minecraft:arrow),262,7
+Arrow of Invisibility (0:22)(minecraft:arrow),262,8
+Arrow of Invisibility (1:00)(minecraft:arrow),262,9
+Arrow of Leaping (0:22 - Jump Boost)(minecraft:arrow),262,10
+Arrow of Leaping (1:00 - Jump Boost)(minecraft:arrow),262,11
+Arrow of Leaping (0:11 - Jump Boost II)(minecraft:arrow),262,12
+Arrow of Fire Resistance (0:22)(minecraft:arrow),262,13
+Arrow of Fire Resistance (1:00)(minecraft:arrow),262,14
+Arrow of Swiftness (0:22 - Speed)(minecraft:arrow),262,15
+Arrow of Swiftness (1:00 - Speed)(minecraft:arrow),262,16
+Arrow of Swiftness (0:11 - Speed II)(minecraft:arrow),262,17
+Arrow of Slowness (0:11)(minecraft:arrow),262,18
+Arrow of Slowness (0:30)(minecraft:arrow),262,19
+Arrow of Water Breathing (0:22)(minecraft:arrow),262,20
+Arrow of Water Breathing (1:00)(minecraft:arrow),262,21
+Arrow of Healing (Instant Health)(minecraft:arrow),262,22
+Arrow of Healing (Instant Health II)(minecraft:arrow),262,23
+Arrow of Harming (Instant Damage)(minecraft:arrow),262,24
+Arrow of Harming (Instant Damage II)(minecraft:arrow),262,25
+Arrow of Poison (0:05)(minecraft:arrow),262,26
+Arrow of Poison (0:11)(minecraft:arrow),262,27
+Arrow of Poison (0:02 - Poison II)(minecraft:arrow),262,28
+Arrow of Regeneration (0:05)(minecraft:arrow),262,29
+Arrow of Regeneration (0:11)(minecraft:arrow),262,30
+Arrow of Regeneration (0:02 - Regeneration II)(minecraft:arrow),262,31
+Arrow of Strength (0:22)(minecraft:arrow),262,32
+Arrow of Strength (1:00)(minecraft:arrow),262,33
+Arrow of Strength (0:11 - Strength II)(minecraft:arrow),262,34
+Arrow of Weakness (0:11)(minecraft:arrow),262,35
+Arrow of Weakness (0:30)(minecraft:arrow),262,36
+Arrow of Decay (0:05 - Wither II)(minecraft:arrow),262,37
+"Arrow of the Turtle Master (0:02 - Slowness IV, Resistance III)(minecraft:arrow)",262,38
+"Arrow of the Turtle Master (0:05 - Slowness IV, Resistance III)(minecraft:arrow)",262,39
+"Arrow of the Turtle Master (0:02 - Slowness VI, Resistance IV)(minecraft:arrow)",262,40
+Arrow of Slow Falling (0:11)(minecraft:arrow),262,41
+Arrow of Slow Falling (0:30)(minecraft:arrow),262,42
+Baked Potato(minecraft:baked_potato),393,0
+Bamboo(minecraft:bamboo),,0
+Black Banner(minecraft:banner),425,0
+Red Banner(minecraft:banner),425,1
+Green Banner(minecraft:banner),425,2
+Brown Banner(minecraft:banner),425,3
+Blue Banner(minecraft:banner),425,4
+Purple Banner(minecraft:banner),425,5
+Cyan Banner(minecraft:banner),425,6
+Light Gray Banner(minecraft:banner),425,7
+Gray Banner(minecraft:banner),425,8
+Pink Banner(minecraft:banner),425,9
+Lime Banner(minecraft:banner),425,10
+Yellow Banner(minecraft:banner),425,11
+Light Blue Banner(minecraft:banner),425,12
+Magenta Banner(minecraft:banner),425,13
+Orange Banner(minecraft:banner),425,14
+White Banner(minecraft:banner),425,15
+Barrier(minecraft:barrier),166,0
+Beacon(minecraft:beacon),138,0
+White Bed(minecraft:bed),355,0
+Orange Bed(minecraft:bed),355,1
+Magenta Bed(minecraft:bed),355,2
+Light Blue Bed(minecraft:bed),355,3
+Yellow Bed(minecraft:bed),355,4
+Lime Bed(minecraft:bed),355,5
+Pink Bed(minecraft:bed),355,6
+Gray Bed(minecraft:bed),355,7
+Light Gray Bed(minecraft:bed),355,8
+Cyan Bed(minecraft:bed),355,9
+Purple Bed(minecraft:bed),355,10
+Blue Bed(minecraft:bed),355,11
+Brown Bed(minecraft:bed),355,12
+Green Bed(minecraft:bed),355,13
+Red Bed(minecraft:bed),355,14
+Black Bed(minecraft:bed),355,15
+Bedrock(minecraft:bedrock),7,0
+Raw Beef(minecraft:beef),363,0
+Beetroot(minecraft:beetroot),434,0
+Beetroot Seeds(minecraft:beetroot_seeds),435,0
+Beetroot Soup(minecraft:beetroot_soup),436,0
+Birch Button(minecraft:birch_button),,0
+Birch Door(minecraft:birch_door),428,0
+Birch Fence Gate(minecraft:birch_fence_gate),184,0
+Birch Pressure Plate(minecraft:birch_pressure_plate),,0
+Birch Sign(minecraft:birch_sign),,0
+Birch Stairs(minecraft:birch_stairs),135,0
+Birch Trapdoor(minecraft:birch_trapdoor),,0
+Black Glazed Terracotta(minecraft:black_glazed_terracotta),250,0
+Blaze Powder(minecraft:blaze_powder),377,0
+Blaze Rod(minecraft:blaze_rod),369,0
+Blue Glazed Terracotta(minecraft:blue_glazed_terracotta),246,0
+Blue Ice(minecraft:blue_ice),,0
+Slate(minecraft:board),230,1
+Poster(minecraft:board),230,2
+Board(minecraft:board),230,3
+Oak Boat(minecraft:boat),333,0
+Spruce Boat(minecraft:boat),333,1
+Birch Boat(minecraft:boat),333,2
+Jungle Boat(minecraft:boat),333,3
+Acacia Boat(minecraft:boat),333,4
+Dark Oak Boat(minecraft:boat),333,5
+Bone(minecraft:bone),352,0
+Bone Block(minecraft:bone_block),216,0
+Book(minecraft:book),340,0
+Bookshelf(minecraft:bookshelf),47,0
+Border Block(minecraft:border_block),3724,0
+Bow(minecraft:bow),261,0
+Bowl(minecraft:bowl),281,0
+Bread(minecraft:bread),297,0
+Brewing Stand(minecraft:brewing_stand),379,0
+Brick(minecraft:brick),336,0
+Bricks(minecraft:brick_block),45,0
+Brick Stairs(minecraft:brick_stairs),108,0
+Brown Glazed Terracotta(minecraft:brown_glazed_terracotta),247,0
+Mushroom (brown)(minecraft:brown_mushroom),39,0
+Light Brown Mushroom Block(minecraft:brown_mushroom_block),99,0
+Brown Mushroom Block(minecraft:brown_mushroom_block),99,1
+Bucket(minecraft:bucket),325,0
+Milk(minecraft:bucket),325,1
+Bucket of Cod(minecraft:bucket),,2
+Bucket of Salmon(minecraft:bucket),,3
+Bucket of Tropical Fish(minecraft:bucket),325,4
+Bucket of Pufferfish(minecraft:bucket),325,5
+Water Bucket(minecraft:bucket),325,8
+Lava Bucket(minecraft:bucket),325,10
+Cactus(minecraft:cactus),81,0
+Cake(minecraft:cake),354,0
+Camera(minecraft:camera),62,0
+White Carpet(minecraft:carpet),171,0
+Orange Carpet(minecraft:carpet),171,1
+Magenta Carpet(minecraft:carpet),171,2
+Light Blue Carpet(minecraft:carpet),171,3
+Yellow Carpet(minecraft:carpet),171,4
+Lime Carpet(minecraft:carpet),171,5
+Pink Carpet(minecraft:carpet),171,6
+Gray Carpet(minecraft:carpet),171,7
+Light Gray Carpet(minecraft:carpet),171,8
+Cyan Carpet(minecraft:carpet),171,9
+Purple Carpet(minecraft:carpet),171,10
+Blue Carpet(minecraft:carpet),171,11
+Brown Carpet(minecraft:carpet),171,12
+Green Carpet(minecraft:carpet),171,13
+Red Carpet(minecraft:carpet),171,14
+Black Carpet(minecraft:carpet),171,15
+Carrot(minecraft:carrot),391,0
+Carrot on a Stick(minecraft:carrotonastick),398,0
+Carved Pumpkin(minecraft:carved_pumpkin),,0
+Cauldron(minecraft:cauldron),380,0
+Chain Command Block(minecraft:chain_command_block),211,0
+Chain Boots(minecraft:chainmail_boots),305,0
+Chain Chestplate(minecraft:chainmail_chestplate),303,0
+Chain Helmet(minecraft:chainmail_helmet),302,0
+Chain Leggings(minecraft:chainmail_leggings),304,0
+Chest(minecraft:chest),54,0
+Minecart with Chest(minecraft:chest_minecart),342,0
+Raw Chicken(minecraft:chicken),365,0
+Chorus Flower(minecraft:chorus_flower),200,0
+Chorus Fruit(minecraft:chorus_fruit),432,0
+Popped Chorus Fruit(minecraft:chorus_fruit_popped),433,0
+Chorus Plant(minecraft:chorus_plant),199,0
+Clay Block(minecraft:clay),82,0
+Clay Ball(minecraft:clay_ball),337,0
+Clock(minecraft:clock),347,0
+Tropical Fish (Clownfish)(minecraft:clownfish),349,0
+Coal(minecraft:coal),263,0
+Charcoal(minecraft:coal),263,1
+Coal Block(minecraft:coal_block),173,0
+Coal Ore(minecraft:coal_ore),16,0
+Cobblestone(minecraft:cobblestone),4,0
+Cobblestone Wall(minecraft:cobblestone_wall),139,0
+Mossy Cobblestone Wall(minecraft:cobblestone_wall),139,1
+Granite Wall(minecraft:cobblestone_wall),,2
+Diorite Wall(minecraft:cobblestone_wall),,3
+Andesite Wall(minecraft:cobblestone_wall),,4
+Sandstone Wall(minecraft:cobblestone_wall),,5
+Brick Wall(minecraft:cobblestone_wall),,6
+Stone Brick Wall(minecraft:cobblestone_wall),,7
+Mossy Stone Brick Wall(minecraft:cobblestone_wall),,8
+Nether Brick Wall(minecraft:cobblestone_wall),,9
+End Stone Brick Wall(minecraft:cobblestone_wall),,10
+Prismarine Wall(minecraft:cobblestone_wall),,11
+Red Sandstone Wall(minecraft:cobblestone_wall),,12
+Red Nether Brick Wall(minecraft:cobblestone_wall),,13
+Command Block(minecraft:command_block),137,0
+Minecart with Command Block(minecraft:command_block_minecart),,0
+Redstone Comparator(minecraft:comparator),404,0
+Compass(minecraft:compass),345,0
+White Concrete(minecraft:concrete),251,0
+Orange Concrete(minecraft:concrete),251,1
+Magenta Concrete(minecraft:concrete),251,2
+Light Blue Concrete(minecraft:concrete),251,3
+Yellow Concrete(minecraft:concrete),251,4
+Lime Concrete(minecraft:concrete),251,5
+Pink Concrete(minecraft:concrete),251,6
+Gray Concrete(minecraft:concrete),251,7
+Light Gray Concrete(minecraft:concrete),251,8
+Cyan Concrete(minecraft:concrete),251,9
+Purple Concrete(minecraft:concrete),251,10
+Blue Concrete(minecraft:concrete),251,11
+Brown Concrete(minecraft:concrete),251,12
+Green Concrete(minecraft:concrete),251,13
+Red Concrete(minecraft:concrete),251,14
+Black Concrete(minecraft:concrete),251,15
+White Concrete Powder(minecraft:concretepowder),252,0
+Orange Concrete Powder(minecraft:concretepowder),252,1
+Magenta Concrete Powder(minecraft:concretepowder),252,2
+Light Blue Concrete Powder(minecraft:concretepowder),252,3
+Yellow Concrete Powder(minecraft:concretepowder),252,4
+Lime Concrete Powder(minecraft:concretepowder),252,5
+Pink Concrete Powder(minecraft:concretepowder),252,6
+Gray Concrete Powder(minecraft:concretepowder),252,7
+Light Gray Concrete Powder(minecraft:concretepowder),252,8
+Cyan Concrete Powder(minecraft:concretepowder),252,9
+Purple Concrete Powder(minecraft:concretepowder),252,10
+Blue Concrete Powder(minecraft:concretepowder),252,11
+Brown Concrete Powder(minecraft:concretepowder),252,12
+Green Concrete Powder(minecraft:concretepowder),252,13
+Red Concrete Powder(minecraft:concretepowder),252,14
+Black Concrete Powder(minecraft:concretepowder),252,15
+Conduit(minecraft:conduit),,0
+Steak(minecraft:cooked_beef),364,0
+Cooked Chicken(minecraft:cooked_chicken),366,0
+Cooked Cod(minecraft:cooked_fish),350,0
+Cooked Porkchop(minecraft:cooked_porkchop),320,0
+Cooked Rabbit(minecraft:cooked_rabbit),412,0
+Cooked Salmon(minecraft:cooked_salmon),350,0
+Cookie(minecraft:cookie),357,0
+Tube Coral(minecraft:coral),,0
+Brain Coral(minecraft:coral),,1
+Bubble Coral(minecraft:coral),,2
+Fire Coral(minecraft:coral),,3
+Horn Coral(minecraft:coral),,4
+Tube Coral Block(minecraft:coral_block),,0
+Brain Coral Block(minecraft:coral_block),,1
+Bubble Coral Block(minecraft:coral_block),,2
+Fire Coral Block(minecraft:coral_block),,3
+Horn Coral Block(minecraft:coral_block),,4
+Dead Tube Coral Block(minecraft:coral_block),,5
+Dead Brain Coral Block(minecraft:coral_block),,6
+Dead Bubble Coral Block(minecraft:coral_block),,7
+Dead Fire Coral Block(minecraft:coral_block),,11
+Dead Horn Coral Block(minecraft:coral_block),,12
+Tube Coral Fan(minecraft:coral_fan),,0
+Brain Coral Fan(minecraft:coral_fan),,1
+Bubble Coral Fan(minecraft:coral_fan),,2
+Fire Coral Fan(minecraft:coral_fan),,3
+Horn Coral Fan(minecraft:coral_fan),,4
+Dead Tube Coral Fan(minecraft:coral_fan_dead),,0
+Dead Brain Coral Fan(minecraft:coral_fan_dead),,1
+Dead Bubble Coral Fan(minecraft:coral_fan_dead),,2
+Dead Fire Coral Fan(minecraft:coral_fan_dead),,3
+Dead Horn Coral Fan(minecraft:coral_fan_dead),,4
+Crafting Table(minecraft:crafting_table),58,0
+Cyan Glazed Terracotta(minecraft:cyan_glazed_terracotta),244,0
+Dark Oak Button(minecraft:dark_oak_button),,0
+Dark Oak Door(minecraft:dark_oak_door),431,0
+Dark Oak Fence Gate(minecraft:dark_oak_fence_gate),186,0
+Dark Oak Pressure Plate(minecraft:dark_oak_pressure_plate),,0
+Dark Oak Stairs(minecraft:dark_oak_stairs),164,0
+Dark Oak Trapdoor(minecraft:dark_oak_trapdoor),,0
+Dark Prismarine Stairs(minecraft:dark_prismarine_stairs),,0
+Dark Oak Sign(minecraft:darkoak_sign),,0
+Daylight Detector(minecraft:daylight_detector),151,0
+Dead Bush(minecraft:deadbush),32,0
+Deny Block(minecraft:deny),3720,0
+Detector Rails(minecraft:detector_rail),28,0
+Diamond(minecraft:diamond),264,0
+Diamond Axe(minecraft:diamond_axe),279,0
+Block of Diamond(minecraft:diamond_block),57,0
+Diamond Boots(minecraft:diamond_boots),313,0
+Diamond Chestplate(minecraft:diamond_chestplate),311,0
+Diamond Helmet(minecraft:diamond_helmet),310,0
+Diamond Hoe(minecraft:diamond_hoe),293,0
+Diamond Leggings(minecraft:diamond_leggings),312,0
+Diamond Ore(minecraft:diamond_ore),56,0
+Diamond Pickaxe(minecraft:diamond_pickaxe),278,0
+Diamond Shovel(minecraft:diamond_shovel),277,0
+Diamond Sword(minecraft:diamond_sword),276,0
+Diorite Stairs(minecraft:diorite_stairs),,0
+Dirt(minecraft:dirt),3,0
+Coarse Dirt(minecraft:dirt),3,1
+Dispenser(minecraft:dispenser),23,0
+Sunflower(minecraft:double_plant),175,0
+Lilac(minecraft:double_plant),175,1
+Tall Grass(minecraft:double_plant),175,2
+Large Fern(minecraft:double_plant),175,3
+Rose Bush(minecraft:double_plant),175,4
+Peony(minecraft:double_plant),175,5
+Dragon's Breath(minecraft:dragon_breath),437,0
+Dragon Egg(minecraft:dragon_egg),122,0
+Dried Kelp(minecraft:dried_kelp),,0
+Dried Kelp Block(minecraft:dried_kelp_block),,0
+Dropper(minecraft:dropper),158,0
+Ink Sac(minecraft:dye),351,0
+Red Dye(minecraft:dye),351,1
+Green Dye(minecraft:dye),351,2
+Cocoa Beans(minecraft:dye),351,3
+Lapis Lazuli(minecraft:dye),351,4
+Purple Dye(minecraft:dye),351,5
+Cyan Dye(minecraft:dye),351,6
+Light Gray Dye(minecraft:dye),351,7
+Gray Dye(minecraft:dye),351,8
+Pink Dye(minecraft:dye),351,9
+Lime Dye(minecraft:dye),351,10
+Yellow Dye(minecraft:dye),351,11
+Light Blue Dye(minecraft:dye),351,12
+Magenta Dye(minecraft:dye),351,13
+Orange Dye(minecraft:dye),351,14
+Bone Meal(minecraft:dye),351,15
+Black Dye(minecraft:dye),,16
+Brown Dye(minecraft:dye),,17
+Blue Dye(minecraft:dye),,18
+White Dye(minecraft:dye),,19
+Egg(minecraft:egg),344,0
+Unknown Element(minecraft:element_0),,0
+Hydrogen(minecraft:element_1),,0
+Neon(minecraft:element_10),,0
+Fermium(minecraft:element_100),,0
+Mendelevium(minecraft:element_101),,0
+Nobelium(minecraft:element_102),,0
+Lawrencium(minecraft:element_103),,0
+Rutherfordium(minecraft:element_104),,0
+Dubnium(minecraft:element_105),,0
+Seaborgium(minecraft:element_106),,0
+Bohrium(minecraft:element_107),,0
+Hassium(minecraft:element_108),,0
+Meitnerium(minecraft:element_109),,0
+Sodium(minecraft:element_11),,0
+Darmstadtium(minecraft:element_110),,0
+Roentgenium(minecraft:element_111),,0
+Copernicium(minecraft:element_112),,0
+Nihonium(minecraft:element_113),,0
+Flerovium(minecraft:element_114),,0
+Moscovium(minecraft:element_115),,0
+Livermorium(minecraft:element_116),,0
+Tennessine(minecraft:element_117),,0
+Oganesson(minecraft:element_118),,0
+Magnesium(minecraft:element_12),,0
+Aluminum(minecraft:element_13),,0
+Silicon(minecraft:element_14),,0
+Phosphorus(minecraft:element_15),,0
+Sulphur(minecraft:element_16),,0
+Chlorine(minecraft:element_17),,0
+Argon(minecraft:element_18),,0
+Potassium(minecraft:element_19),,0
+Helium(minecraft:element_2),,0
+Calcium(minecraft:element_20),,0
+Scandium(minecraft:element_21),,0
+Titanium(minecraft:element_22),,0
+Vanadium(minecraft:element_23),,0
+Chromium(minecraft:element_24),,0
+Manganese(minecraft:element_25),,0
+Iron(minecraft:element_26),,0
+Cobalt(minecraft:element_27),,0
+Nickel(minecraft:element_28),,0
+Copper(minecraft:element_29),,0
+Lithium(minecraft:element_3),,0
+Zinc(minecraft:element_30),,0
+Gallium(minecraft:element_31),,0
+Germanium(minecraft:element_32),,0
+Arsenic(minecraft:element_33),,0
+Selenium(minecraft:element_34),,0
+Bromine(minecraft:element_35),,0
+Krypton(minecraft:element_36),,0
+Rubidium(minecraft:element_37),,0
+Strontium(minecraft:element_38),,0
+Yttrium(minecraft:element_39),,0
+Beryllium(minecraft:element_4),,0
+Zirconium(minecraft:element_40),,0
+Niobium(minecraft:element_41),,0
+Molybdenum(minecraft:element_42),,0
+Technetium(minecraft:element_43),,0
+Ruthenium(minecraft:element_44),,0
+Rhodium(minecraft:element_45),,0
+Palladium(minecraft:element_46),,0
+Silver(minecraft:element_47),,0
+Cadmium(minecraft:element_48),,0
+Indium(minecraft:element_49),,0
+Boron(minecraft:element_5),,0
+Tin(minecraft:element_50),,0
+Antimony(minecraft:element_51),,0
+Tellurium(minecraft:element_52),,0
+Iodine(minecraft:element_53),,0
+Xenon(minecraft:element_54),,0
+Cesium(minecraft:element_55),,0
+Barium(minecraft:element_56),,0
+Lanthanum(minecraft:element_57),,0
+Cerium(minecraft:element_58),,0
+Praseodymium(minecraft:element_59),,0
+Carbon(minecraft:element_6),,0
+Neodymium(minecraft:element_60),,0
+Promethium(minecraft:element_61),,0
+Samarium(minecraft:element_62),,0
+Europium(minecraft:element_63),,0
+Gadolinium(minecraft:element_64),,0
+Terbium(minecraft:element_65),,0
+Dysprosium(minecraft:element_66),,0
+Holmium(minecraft:element_67),,0
+Erbium(minecraft:element_68),,0
+Thulium(minecraft:element_69),,0
+Nitrogen(minecraft:element_7),,0
+Ytterbium(minecraft:element_70),,0
+Lutetium(minecraft:element_71),,0
+Hafnium(minecraft:element_72),,0
+Tantalum(minecraft:element_73),,0
+Tungsten(minecraft:element_74),,0
+Rhenium(minecraft:element_75),,0
+Osmium(minecraft:element_76),,0
+Iridium(minecraft:element_77),,0
+Platinum(minecraft:element_78),,0
+Gold(minecraft:element_79),,0
+Oxygen(minecraft:element_8),,0
+Mercury(minecraft:element_80),,0
+Thallium(minecraft:element_81),,0
+Lead(minecraft:element_82),,0
+Bismuth(minecraft:element_83),,0
+Polonium(minecraft:element_84),,0
+Astatine(minecraft:element_85),,0
+Radon(minecraft:element_86),,0
+Francium(minecraft:element_87),,0
+Radium(minecraft:element_88),,0
+Actinium(minecraft:element_89),,0
+Fluorine(minecraft:element_9),,0
+Thorium(minecraft:element_90),,0
+Protactinium(minecraft:element_91),,0
+Uranium(minecraft:element_92),,0
+Neptunium(minecraft:element_93),,0
+Plutonium(minecraft:element_94),,0
+Americium(minecraft:element_95),,0
+Curium(minecraft:element_96),,0
+Berkelium(minecraft:element_97),,0
+Californium(minecraft:element_98),,0
+Einsteinium(minecraft:element_99),,0
+Elytra(minecraft:elytra),443,0
+Emerald(minecraft:emerald),388,0
+Block of Emerald(minecraft:emerald_block),133,0
+Emerald Ore(minecraft:emerald_ore),129,0
+Map(minecraft:emptymap),395,0
+Enchanted Book(minecraft:enchanted_book),403,0
+Enchanting Table(minecraft:enchanting_table),116,0
+End Stone Brick Stairs(minecraft:end_brick_stairs),,0
+End Stone Bricks(minecraft:end_bricks),206,0
+End Crystal(minecraft:end_crystal),426,0
+End Portal Frame(minecraft:end_portal_frame),120,0
+End Rod(minecraft:end_rod),198,0
+End Stone(minecraft:end_stone),121,0
+Ender Chest(minecraft:ender_chest),130,0
+Eye of Ender(minecraft:ender_eye),381,0
+Ender Pearl(minecraft:ender_pearl),368,0
+Bottle o'Enchanting(minecraft:experience_bottle),384,0
+Feather(minecraft:feather),288,0
+Oak Fence(minecraft:fence),85,0
+Spruce Fence(minecraft:fence),85,1
+Birch Fence(minecraft:fence),85,2
+Jungle Fence(minecraft:fence),85,3
+Acacia Fence(minecraft:fence),85,4
+Dark Oak Fence(minecraft:fence),85,5
+Oak Fence Gate(minecraft:fence_gate),107,0
+Fermented Spider Eye(minecraft:fermented_spider_eye),376,0
+Map (Filled)(minecraft:filled_map),358,0
+Fire Charge(minecraft:fireball),385,0
+Firework Rocket(minecraft:fireworks),401,0
+Firework Star(minecraft:fireworkscharge),402,0
+Raw Cod(minecraft:fish),349,0
+Fishing Rod(minecraft:fishing_rod),346,0
+Flint(minecraft:flint),318,0
+Flint and Steel(minecraft:flint_and_steel),259,0
+Flower Pot(minecraft:flower_pot),390,0
+Item Frame(minecraft:frame),389,0
+Furnace(minecraft:furnace),61,0
+Ghast Tear(minecraft:ghast_tear),370,0
+Glass(minecraft:glass),20,0
+Glass Bottle(minecraft:glass_bottle),374,0
+Glass Pane(minecraft:glass_pane),102,0
+Glowstone(minecraft:glowstone),89,0
+Glowstone Dust(minecraft:glowstone_dust),348,0
+Block of Gold(minecraft:gold_block),41,0
+Gold Ingot(minecraft:gold_ingot),266,0
+Gold Nugget(minecraft:gold_nugget),371,0
+Gold Ore(minecraft:gold_ore),14,0
+Golden Apple(minecraft:golden_apple),322,0
+Golden Axe(minecraft:golden_axe),286,0
+Golden Boots(minecraft:golden_boots),317,0
+Golden Carrot(minecraft:golden_carrot),396,0
+Golden Chestplate(minecraft:golden_chestplate),315,0
+Golden Helmet(minecraft:golden_helmet),314,0
+Golden Hoe(minecraft:golden_hoe),294,0
+Golden Leggings(minecraft:golden_leggings),316,0
+Golden Pickaxe(minecraft:golden_pickaxe),285,0
+Powered Rails(minecraft:golden_rail),27,0
+Golden Shovel(minecraft:golden_shovel),284,0
+Golden Sword(minecraft:golden_sword),283,0
+Granite Stairs(minecraft:granite_stairs),,0
+Grass Block(minecraft:grass),2,0
+Gravel(minecraft:gravel),13,0
+Gray Glazed Terracotta(minecraft:gray_glazed_terracotta),242,0
+Green Glazed Terracotta(minecraft:green_glazed_terracotta),248,0
+Gunpowder(minecraft:gunpowder),289,0
+Terracotta(minecraft:hardened_clay),172,0
+Hay Bale(minecraft:hay_block),170,0
+Heart of the Sea(minecraft:heart_of_the_sea),,0
+Heavy Weighted Pressure Plate(minecraft:heavy_weighted_pressure_plate),148,0
+Hopper(minecraft:hopper),154,0
+Minecart with Hopper(minecraft:hopper_minecart),408,0
+Diamond Horse Armor(minecraft:horsearmordiamond),419,0
+Gold Horse Armor(minecraft:horsearmorgold),418,0
+Iron Horse Armor(minecraft:horsearmoriron),417,0
+Leather Horse Armor(minecraft:horsearmorleather),416,0
+Ice(minecraft:ice),79,0
+Iron Axe(minecraft:iron_axe),258,0
+Iron Bars(minecraft:iron_bars),101,0
+Block of Iron(minecraft:iron_block),42,0
+Iron Boots(minecraft:iron_boots),309,0
+Iron Chestplate(minecraft:iron_chestplate),307,0
+Iron Door(minecraft:iron_door),330,0
+Iron Helmet(minecraft:iron_helmet),306,0
+Iron Hoe(minecraft:iron_hoe),292,0
+Iron Ingot(minecraft:iron_ingot),265,0
+Iron Leggings(minecraft:iron_leggings),308,0
+Iron Nugget(minecraft:iron_nugget),452,0
+Iron Ore(minecraft:iron_ore),15,0
+Iron Pickaxe(minecraft:iron_pickaxe),257,0
+Iron Shovel(minecraft:iron_shovel),256,0
+Iron Sword(minecraft:iron_sword),267,0
+Iron Trapdoor(minecraft:iron_trapdoor),167,0
+Jukebox(minecraft:jukebox),84,0
+Jungle Button(minecraft:jungle_button),,0
+Jungle Door(minecraft:jungle_door),429,0
+Jungle Fence Gate(minecraft:jungle_fence_gate),185,0
+Jungle Pressure Plate(minecraft:jungle_pressure_plate),,0
+Jungle Sign(minecraft:jungle_sign),,0
+Jungle Stairs(minecraft:jungle_stairs),136,0
+Jungle Trapdoor(minecraft:jungle_trapdoor),,0
+Kelp(minecraft:kelp),,0
+Ladder(minecraft:ladder),65,0
+Lapis Lazuli Block(minecraft:lapis_block),22,0
+Lapis Lazuli Ore(minecraft:lapis_ore),21,0
+Lava(minecraft:lava),,0
+Lead(minecraft:lead),420,0
+Leather(minecraft:leather),334,0
+Leather Boots(minecraft:leather_boots),301,0
+Leather Tunic(minecraft:leather_chestplate),299,0
+Leather Cap(minecraft:leather_helmet),298,0
+Leather Pants(minecraft:leather_leggings),300,0
+Oak Leaves(minecraft:leaves),18,0
+Spruce Leaves(minecraft:leaves),18,1
+Birch Leaves(minecraft:leaves),18,2
+Jungle Leaves(minecraft:leaves),18,3
+Acacia Leaves(minecraft:leaves2),161,0
+Dark Oak Leaves(minecraft:leaves2),161,1
+Lever(minecraft:lever),69,0
+Light Blue Glazed Terracotta(minecraft:light_blue_glazed_terracotta),238,0
+Light Weighted Pressure Plate(minecraft:light_weighted_pressure_plate),147,0
+Lime Glazed Terracotta(minecraft:lime_glazed_terracotta),240,0
+Lingering Potion of Night Vision (0:45)(minecraft:lingering_potion),441,5
+Lingering Potion of Night Vision (2:00)(minecraft:lingering_potion),441,6
+Lingering Potion of Invisibility (0:45)(minecraft:lingering_potion),441,7
+Lingering Potion of Invisibility (2:00)(minecraft:lingering_potion),441,8
+Lingering Potion of Leaping (0:45 - Jump Boost)(minecraft:lingering_potion),441,9
+Lingering Potion of Leaping (2:00 - Jump Boost)(minecraft:lingering_potion),441,10
+Lingering Potion of Leaping (0:22 - Jump Boost II)(minecraft:lingering_potion),441,11
+Lingering Potion of Fire Resistance (0:45)(minecraft:lingering_potion),441,12
+Lingering Potion of Fire Resistance (2:00)(minecraft:lingering_potion),441,13
+Lingering Potion of Swiftness (0:45 - Speed)(minecraft:lingering_potion),441,14
+Lingering Potion of Swiftness (2:00 - Speed)(minecraft:lingering_potion),441,15
+Lingering Potion of Swiftness (0:22 - Speed II)(minecraft:lingering_potion),441,16
+Lingering Potion of Slowness (0:22)(minecraft:lingering_potion),441,17
+Lingering Potion of Slowness (1:00)(minecraft:lingering_potion),441,18
+Lingering Potion of Water Breathing (0:45)(minecraft:lingering_potion),441,19
+Lingering Potion of Water Breathing (2:00)(minecraft:lingering_potion),441,20
+Lingering Potion of Healing (Instant Health)(minecraft:lingering_potion),441,21
+Lingering Potion of Healing (Instant Health II)(minecraft:lingering_potion),441,22
+Lingering Potion of Harming (Instant Damage)(minecraft:lingering_potion),441,23
+Lingering Potion of Harming (Instant Damage II)(minecraft:lingering_potion),441,24
+Lingering Potion of Poison (0:11)(minecraft:lingering_potion),441,25
+Lingering Potion of Poison (0:22)(minecraft:lingering_potion),441,26
+Lingering Potion of Poison (0:05 - Poison II)(minecraft:lingering_potion),441,27
+Lingering Potion of Regeneration (0:11)(minecraft:lingering_potion),441,28
+Lingering Potion of Regeneration (0:22)(minecraft:lingering_potion),441,29
+Lingering Potion of Regeneration (0:05 - Regeneration II)(minecraft:lingering_potion),441,30
+Lingering Potion of Strength (0:45)(minecraft:lingering_potion),441,31
+Lingering Potion of Strength (2:00)(minecraft:lingering_potion),441,32
+Lingering Potion of Strength (0:22 - Strength II)(minecraft:lingering_potion),441,33
+Lingering Potion of Weakness (0:22)(minecraft:lingering_potion),441,34
+Lingering Potion of Weakness (1:00)(minecraft:lingering_potion),441,35
+Lingering Potion of Decay (0:10 - Wither II)(minecraft:lingering_potion),441,36
+"Lingering Potion of the Turtle Master (0:05 - Slowness IV, Resistance III)(minecraft:lingering_potion)",441,37
+"Lingering Potion of the Turtle Master (0:10 - Slowness IV, Resistance III)(minecraft:lingering_potion)",441,38
+"Lingering Potion of the Turtle Master (0:05 - Slowness VI, Resistance IV)(minecraft:lingering_potion)",441,39
+Lingering Potion of Slow Falling (0:22)(minecraft:lingering_potion),441,40
+Lingering Potion of Slow Falling (1:00)(minecraft:lingering_potion),441,41
+Jack o'Lantern(minecraft:lit_pumpkin),91,0
+Oak Log(minecraft:log),17,0
+Spruce Log(minecraft:log),17,1
+Birch Log(minecraft:log),17,2
+Jungle Log(minecraft:log),17,3
+Acacia Log(minecraft:log2),162,0
+Dark Oak Log(minecraft:log2),162,1
+Magenta Glazed Terracotta(minecraft:magenta_glazed_terracotta),237,0
+Magma Block(minecraft:magma),213,0
+Magma Cream(minecraft:magma_cream),378,0
+Melon Slice(minecraft:melon),360,0
+Block of Melon(minecraft:melon_block),103,0
+Melon Seeds(minecraft:melon_seeds),362,0
+Minecart(minecraft:minecart),328,0
+Monster Spawner(minecraft:mob_spawner),52,0
+Infested Stone(minecraft:monster_egg),97,0
+Infested Cobblestone(minecraft:monster_egg),97,1
+Infested Stone Bricks(minecraft:monster_egg),97,2
+Infested Mossy Stone Bricks(minecraft:monster_egg),97,3
+Infested Cracked Stone Bricks(minecraft:monster_egg),97,4
+Infested Chiseled Stone Bricks(minecraft:monster_egg),97,5
+Mossy Cobblestone(minecraft:mossy_cobblestone),48,0
+Mossy Cobblestone Stairs(minecraft:mossy_cobblestone_stairs),,0
+Mossy Stone Brick Stairs(minecraft:mossy_stone_brick_stairs),,0
+Mushroom Stew(minecraft:mushroom_stew),282,0
+Cooked Mutton(minecraft:muttoncooked),424,0
+Raw Mutton(minecraft:muttonraw),423,0
+Mycelium(minecraft:mycelium),110,0
+Name Tag(minecraft:name_tag),421,0
+Nautilus Shell(minecraft:nautilus_shell),,0
+Block of Nether Bricks(minecraft:nether_brick),112,0
+Nether Brick Fence(minecraft:nether_brick_fence),113,0
+Nether Brick Stairs(minecraft:nether_brick_stairs),114,0
+Nether Wart(minecraft:nether_wart),372,0
+Nether Wart Block(minecraft:nether_wart_block),214,0
+Nether Brick(minecraft:netherbrick),405,0
+Netherrack(minecraft:netherrack),87,0
+Nether Star(minecraft:netherstar),399,0
+Stone Stairs(minecraft:normal_stone_stairs),,0
+Note Block(minecraft:noteblock),25,0
+Oak Stairs(minecraft:oak_stairs),53,0
+Observer(minecraft:observer),218,0
+Obsidian(minecraft:obsidian),49,0
+Orange Glazed Terracotta(minecraft:orange_glazed_terracotta),236,0
+Packed Ice(minecraft:packed_ice),174,0
+Painting(minecraft:painting),321,0
+Paper(minecraft:paper),339,0
+Phantom Membrane(minecraft:phantom_membrane),,0
+Pink Glazed Terracotta(minecraft:pink_glazed_terracotta),241,0
+Piston(minecraft:piston),33,0
+Oak Planks(minecraft:planks),5,0
+Spruce Planks(minecraft:planks),5,1
+Birch Planks(minecraft:planks),5,2
+Jungle Planks(minecraft:planks),5,3
+Acacia Planks(minecraft:planks),5,4
+Dark Oak Planks(minecraft:planks),5,5
+Podzol(minecraft:podzol),3,0
+Poisonous Potato(minecraft:poisonous_potato),394,0
+Polished Andesite Stairs(minecraft:polished_andesite_stairs),,0
+Polished Diorite Stairs(minecraft:polished_diorite_stairs),,0
+Polished Granite Stairs(minecraft:polished_granite_stairs),,0
+Raw Porkchop(minecraft:porkchop),319,0
+Portfolio(minecraft:portfolio),63,0
+Potato(minecraft:potato),392,0
+Water Bottle(minecraft:potion),373,0
+Potion of Night Vision (3:00)(minecraft:potion),373,5
+Potion of Night Vision (8:00)(minecraft:potion),373,6
+Potion of Invisibility (3:00)(minecraft:potion),373,7
+Potion of Invisibility (8:00)(minecraft:potion),373,8
+Potion of Leaping (3:00 - Jump Boost)(minecraft:potion),373,9
+Potion of Leaping (8:00 - Jump Boost)(minecraft:potion),373,10
+Potion of Leaping (1:30 - Jump Boost II)(minecraft:potion),373,11
+Potion of Fire Resistance (3:00)(minecraft:potion),373,12
+Potion of Fire Resistance (8:00)(minecraft:potion),373,13
+Potion of Swiftness (3:00 - Speed)(minecraft:potion),373,14
+Potion of Swiftness (8:00 - Speed)(minecraft:potion),373,15
+Potion of Swiftness (1:30 - Speed II)(minecraft:potion),373,16
+Potion of Slowness (1:30)(minecraft:potion),373,17
+Potion of Slowness (4:00)(minecraft:potion),373,18
+Potion of Water Breathing (3:00)(minecraft:potion),373,19
+Potion of Water Breathing (8:00)(minecraft:potion),373,20
+Potion of Healing (Instant Health)(minecraft:potion),373,21
+Potion of Healing (Instant Health II)(minecraft:potion),373,22
+Potion of Harming (Instant Damage)(minecraft:potion),373,23
+Potion of Harming (Instant Damage II)(minecraft:potion),373,24
+Potion of Poison (0:45)(minecraft:potion),373,25
+Potion of Poison (2:00)(minecraft:potion),373,26
+Potion of Poison (0:22 - Poison II)(minecraft:potion),373,27
+Potion of Regeneration (0:45)(minecraft:potion),373,28
+Potion of Regeneration (1:30)(minecraft:potion),373,29
+Potion of Regeneration (0:22 - Regeneration II)(minecraft:potion),373,30
+Potion of Strength (3:00)(minecraft:potion),373,31
+Potion of Strength (8:00)(minecraft:potion),373,32
+Potion of Strength (1:30 - Strength II)(minecraft:potion),373,33
+Potion of Weakness (1:30)(minecraft:potion),373,34
+Potion of Weakness (4:00)(minecraft:potion),373,35
+Potion of Decay (0:40 - Wither II)(minecraft:potion),373,36
+"Potion of the Turtle Master (0:20 - Slowness IV, Resistance III)(minecraft:potion)",373,37
+"Potion of the Turtle Master (0:40 - Slowness IV, Resistance III)(minecraft:potion)",373,38
+"Potion of the Turtle Master (0:20 - Slowness VI, Resistance IV)(minecraft:potion)",373,39
+Potion of Slow Falling (1:30)(minecraft:potion),,40
+Potion of Slow Falling (4:00)(minecraft:potion),373,41
+Prismarine(minecraft:prismarine),168,0
+Dark Prismarine(minecraft:prismarine),168,1
+Prismarine Bricks(minecraft:prismarine),168,2
+Prismarine Bricks Stairs(minecraft:prismarine_bricks_stairs),,0
+Prismarine Crystals(minecraft:prismarine_crystals),410,0
+Prismarine Shard(minecraft:prismarine_shard),409,0
+Prismarine Stairs(minecraft:prismarine_stairs),,0
+Pufferfish(minecraft:pufferfish),349,0
+Pumpkin(minecraft:pumpkin),86,0
+Pumpkin Pie(minecraft:pumpkin_pie),400,0
+Pumpkin Seeds(minecraft:pumpkin_seeds),361,0
+Purple Glazed Terracotta(minecraft:purple_glazed_terracotta),245,0
+Purpur Block(minecraft:purpur_block),201,0
+Purpur Pillar(minecraft:purpur_block),201,2
+Purpur Stairs(minecraft:purpur_stairs),203,0
+Nether Quartz(minecraft:quartz),406,0
+Block of Quartz(minecraft:quartz_block),155,0
+Chiseled Quartz Block(minecraft:quartz_block),155,1
+Quartz Pillar(minecraft:quartz_block),155,2
+Smooth Quartz(minecraft:quartz_block),,3
+Nether Quartz Ore(minecraft:quartz_ore),153,0
+Quartz Stairs(minecraft:quartz_stairs),156,0
+Raw Rabbit(minecraft:rabbit),411,0
+Rabbit's Foot(minecraft:rabbit_foot),414,0
+Rabbit Hide(minecraft:rabbit_hide),415,0
+Rabbit Stew(minecraft:rabbit_stew),413,0
+Rails(minecraft:rail),66,0
+Music Disc (C418 - 11)(minecraft:record_11),2266,0
+Music Disc (C418 - 13)(minecraft:record_13),2256,0
+Music Disc (C418 - blocks)(minecraft:record_blocks),2258,0
+Music Disc (C418 - cat)(minecraft:record_cat),2257,0
+Music Disc (C418 - chirp)(minecraft:record_chirp),2259,0
+Music Disc (C418 - far)(minecraft:record_far),2260,0
+Music Disc (C418 - mall)(minecraft:record_mall),2261,0
+Music Disc (C418 - mellohi)(minecraft:record_mellohi),2262,0
+Music Disc (C418 - stal)(minecraft:record_stal),2263,0
+Music Disc (C418 - strad)(minecraft:record_strad),2264,0
+Music Disc (C418 - wait)(minecraft:record_wait),2267,0
+Music Disc (C418 - ward)(minecraft:record_ward),2265,0
+Poppy(minecraft:red_flower),38,0
+Blue Orchid(minecraft:red_flower),38,1
+Allium(minecraft:red_flower),38,2
+Azure Bluet(minecraft:red_flower),38,3
+Red Tulip(minecraft:red_flower),38,4
+Orange Tulip(minecraft:red_flower),38,5
+White Tulip(minecraft:red_flower),38,6
+Pink Tulip(minecraft:red_flower),38,7
+Oxeye Daisy(minecraft:red_flower),38,8
+Cornflower(minecraft:red_flower),,9
+Lily of the Valley(minecraft:red_flower),,10
+Red Glazed Terracotta(minecraft:red_glazed_terracotta),249,0
+Mushroom (red with white spots)(minecraft:red_mushroom),40,0
+Red Mushroom Block(minecraft:red_mushroom_block),100,0
+Red Nether Brick(minecraft:red_nether_brick),215,0
+Red Nether Brick Stairs(minecraft:red_nether_brick_stairs),,0
+Red Sandstone(minecraft:red_sandstone),179,0
+Chiseled Red Sandstone(minecraft:red_sandstone),179,1
+Cut Red Sandstone(minecraft:red_sandstone),,2
+Smooth Red Sandstone(minecraft:red_sandstone),179,3
+Red Sandstone Stairs(minecraft:red_sandstone_stairs),180,0
+Redstone Dust(minecraft:redstone),331,0
+Block of Redstone(minecraft:redstone_block),152,0
+Redstone Lamp(minecraft:redstone_lamp),123,0
+Redstone Ore(minecraft:redstone_ore),73,0
+Redstone Torch(minecraft:redstone_torch),76,0
+Sugar Canes(minecraft:reeds),338,0
+Redstone Repeater(minecraft:repeater),356,0
+Repeating Command Block(minecraft:repeating_command_block),210,0
+Rotten Flesh(minecraft:rotten_flesh),367,0
+Saddle(minecraft:saddle),329,0
+Raw Salmon(minecraft:salmon),349,0
+Sand(minecraft:sand),12,0
+Red Sand(minecraft:sand),12,1
+Sandstone(minecraft:sandstone),24,0
+Chiseled Sandstone(minecraft:sandstone),24,1
+Cut Sandstone(minecraft:sandstone),,2
+Smooth Sandstone(minecraft:sandstone),24,3
+Sandstone Stairs(minecraft:sandstone_stairs),128,0
+Oak Sapling(minecraft:sapling),6,0
+Spruce Sapling(minecraft:sapling),6,1
+Birch Sapling(minecraft:sapling),6,2
+Jungle Sapling(minecraft:sapling),6,3
+Acacia Sapling(minecraft:sapling),6,4
+Dark Oak Sapling(minecraft:sapling),6,5
+Scaffolding(minecraft:scaffolding),,0
+Sea Pickle(minecraft:sea_pickle),,0
+Seagrass(minecraft:seagrass),,0
+Sea Lantern(minecraft:sealantern),169,0
+Shears(minecraft:shears),359,0
+White Shulker Box(minecraft:shulker_box),229,0
+Orange Shulker Box(minecraft:shulker_box),229,1
+Magenta Shulker Box(minecraft:shulker_box),229,2
+Light Blue Shulker Box(minecraft:shulker_box),229,3
+Yellow Shulker Box(minecraft:shulker_box),229,4
+Lime Shulker Box(minecraft:shulker_box),229,5
+Pink Shulker Box(minecraft:shulker_box),229,6
+Gray Shulker Box(minecraft:shulker_box),229,7
+Light Gray Shulker Box(minecraft:shulker_box),229,8
+Cyan Shulker Box(minecraft:shulker_box),229,9
+Purple Shulker Box(minecraft:shulker_box),229,10
+Blue Shulker Box(minecraft:shulker_box),229,11
+Brown Shulker Box(minecraft:shulker_box),229,12
+Green Shulker Box(minecraft:shulker_box),229,13
+Red Shulker Box(minecraft:shulker_box),229,14
+Black Shulker Box(minecraft:shulker_box),229,15
+Shulker Shell(minecraft:shulker_shell),450,0
+Oak Sign(minecraft:sign),323,0
+Light Gray Glazed Terracotta(minecraft:silver_glazed_terracotta),243,0
+Skeleton Skull(minecraft:skull),397,0
+Wither Skeleton Skull(minecraft:skull),397,1
+Zombie Head(minecraft:skull),397,2
+Steve Head(minecraft:skull),397,3
+Creeper Head(minecraft:skull),397,4
+Dragon Head(minecraft:skull),397,5
+Slime Block(minecraft:slime),165,0
+Slimeball(minecraft:slime_ball),341,0
+Smooth Quartz Stairs(minecraft:smooth_quartz_stairs),,0
+Smooth Red Sandstone Stairs(minecraft:smooth_red_sandstone_stairs),,0
+Smooth Sandstone Stairs(minecraft:smooth_sandstone_stairs),,0
+Smooth Stone(minecraft:smooth_stone),,0
+Snow Block(minecraft:snow),80,0
+Snow(minecraft:snow_layer),78,0
+Snowball(minecraft:snowball),332,0
+Soul Sand(minecraft:soul_sand),88,0
+Chicken Spawn Egg(minecraft:spawn_egg),383,10
+Cow Spawn Egg(minecraft:spawn_egg),383,11
+Pig Spawn Egg(minecraft:spawn_egg),383,12
+Sheep Spawn Egg(minecraft:spawn_egg),383,13
+Wolf Spawn Egg(minecraft:spawn_egg),383,14
+Villager Spawn Egg(minecraft:spawn_egg),383,15
+Mooshroom Spawn Egg(minecraft:spawn_egg),383,16
+Squid Spawn Egg(minecraft:spawn_egg),383,17
+Rabbit Spawn Egg(minecraft:spawn_egg),383,18
+Bat Spawn Egg(minecraft:spawn_egg),383,19
+Ocelot Spawn Egg(minecraft:spawn_egg),383,22
+Horse Spawn Egg(minecraft:spawn_egg),383,23
+Donkey Spawn Egg(minecraft:spawn_egg),383,24
+Mule Spawn Egg(minecraft:spawn_egg),383,25
+Skeleton Horse Spawn Egg(minecraft:spawn_egg),383,26
+Zombie Horse Spawn Egg(minecraft:spawn_egg),383,27
+Polar Bear Spawn Egg(minecraft:spawn_egg),383,28
+Llama Spawn Egg(minecraft:spawn_egg),383,29
+Parrot Spawn Egg(minecraft:spawn_egg),383,30
+Dolphin Spawn Egg(minecraft:spawn_egg),383,31
+Zombie Spawn Egg(minecraft:spawn_egg),383,32
+Creeper Spawn Egg(minecraft:spawn_egg),383,33
+Skeleton Spawn Egg(minecraft:spawn_egg),383,34
+Spider Spawn Egg(minecraft:spawn_egg),383,35
+Zombified Piglin Spawn Egg(minecraft:spawn_egg),383,36
+Slime Spawn Egg(minecraft:spawn_egg),383,37
+Enderman Spawn Egg(minecraft:spawn_egg),383,38
+Silverfish Spawn Egg(minecraft:spawn_egg),383,39
+Cave Spider Spawn Egg(minecraft:spawn_egg),383,40
+Ghast Spawn Egg(minecraft:spawn_egg),383,41
+Magma Cube Spawn Egg(minecraft:spawn_egg),383,42
+Blaze Spawn Egg(minecraft:spawn_egg),383,43
+Zombie Villager Spawn Egg(minecraft:spawn_egg),383,44
+Witch Spawn Egg(minecraft:spawn_egg),383,45
+Stray Spawn Egg(minecraft:spawn_egg),383,46
+Husk Spawn Egg(minecraft:spawn_egg),383,47
+Wither Skeleton Spawn Egg(minecraft:spawn_egg),383,48
+Guardian Spawn Egg(minecraft:spawn_egg),383,49
+Elder Guardian Spawn Egg(minecraft:spawn_egg),383,50
+NPC Spawn Egg(minecraft:spawn_egg),383,51
+Shulker Spawn Egg(minecraft:spawn_egg),383,54
+Endermite Spawn Egg(minecraft:spawn_egg),383,55
+Vindicator Spawn Egg(minecraft:spawn_egg),383,57
+Phantom Spawn Egg(minecraft:spawn_egg),383,58
+Turtle Spawn Egg(minecraft:spawn_egg),383,74
+Cat Spawn Egg(minecraft:spawn_egg),,75
+Evoker Spawn Egg(minecraft:spawn_egg),383,104
+Vex Spawn Egg(minecraft:spawn_egg),383,105
+Pufferfish Spawn Egg(minecraft:spawn_egg),383,108
+Salmon Spawn Egg(minecraft:spawn_egg),383,109
+Drowned Spawn Egg(minecraft:spawn_egg),383,110
+Tropical Fish Spawn Egg(minecraft:spawn_egg),383,111
+Cod Spawn Egg(minecraft:spawn_egg),383,112
+Panda Spawn Egg(minecraft:spawn_egg),,113
+Glistering Melon(minecraft:speckled_melon),382,0
+Spider Eye(minecraft:spider_eye),375,0
+Splash Potion of Night Vision (3:00/2:15)(minecraft:splash_potion),438,5
+Splash Potion of Night Vision (8:00/6:00)(minecraft:splash_potion),438,6
+Splash Potion of Invisibility (3:00/2:15)(minecraft:splash_potion),438,7
+Splash Potion of Invisibility (8:00/6:00)(minecraft:splash_potion),438,8
+Splash Potion of Leaping (3:00/2:15 - Jump Boost)(minecraft:splash_potion),438,9
+Splash Potion of Leaping (8:00/6:00 - Jump Boost)(minecraft:splash_potion),438,10
+Splash Potion of Leaping (1:30/1:07 - Jump Boost II)(minecraft:splash_potion),438,11
+Splash Potion of Fire Resistance (3:00/2:15)(minecraft:splash_potion),438,12
+Splash Potion of Fire Resistance (6:00)(minecraft:splash_potion),438,13
+Splash Potion of Swiftness (3:00/2:15 - Speed)(minecraft:splash_potion),438,14
+Splash Potion of Swiftness (8:00/6:00 - Speed)(minecraft:splash_potion),438,15
+Splash Potion of Swiftness (1:30/1:07 - Speed II)(minecraft:splash_potion),438,16
+Splash Potion of Slowness (1:30/1:07)(minecraft:splash_potion),438,17
+Splash Potion of Slowness (4:00/3:00)(minecraft:splash_potion),438,18
+Splash Potion of Water Breathing (3:00/2:15)(minecraft:splash_potion),438,19
+Splash Potion of Water Breathing (8:00/6:00)(minecraft:splash_potion),438,20
+Splash Potion of Healing (Instant Health)(minecraft:splash_potion),438,21
+Splash Potion of Healing (Instant Health II)(minecraft:splash_potion),438,22
+Splash Potion of Harming (Instant Damage)(minecraft:splash_potion),438,23
+Splash Potion of Harming (Instant Damage II)(minecraft:splash_potion),438,24
+Splash Potion of Poison (0:45/0:33)(minecraft:splash_potion),438,25
+Splash Potion of Poison (1:30)(minecraft:splash_potion),438,26
+Splash Potion of Poison (0:22/0:16 - Poison II)(minecraft:splash_potion),438,27
+Splash Potion of Regeneration (0:45/0:33)(minecraft:splash_potion),438,28
+Splash Potion of Regeneration (1:30)(minecraft:splash_potion),438,29
+Splash Potion of Regeneration (0:22/0:16 - Regeneration II)(minecraft:splash_potion),438,30
+Splash Potion of Strength (3:00/2:15)(minecraft:splash_potion),438,31
+Splash Potion of Strength (8:00/6:00)(minecraft:splash_potion),438,32
+Splash Potion of Strength (1:30/1:07 - Strength II)(minecraft:splash_potion),438,33
+Splash Potion of Weakness (1:30/1:07)(minecraft:splash_potion),438,34
+Splash Potion of Weakness (4:00/3:00)(minecraft:splash_potion),438,35
+Splash Potion of Decay (0:30 - Wither II)(minecraft:splash_potion),438,36
+"Splash Potion of the Turtle Master (0:15 - Slowness IV, Resistance III)(minecraft:splash_potion)",438,37
+"Splash Potion of the Turtle Master (0:30 - Slowness IV, Resistance III)(minecraft:splash_potion)",438,38
+"Splash Potion of the Turtle Master (0:15 - Slowness VI, Resistance IV)(minecraft:splash_potion)",438,39
+Splash Potion of Slow Falling (1:30)(minecraft:splash_potion),438,40
+Splash Potion of Slow Falling (4:00)(minecraft:splash_potion),438,41
+Sponge(minecraft:sponge),19,0
+Wet Sponge(minecraft:sponge),19,1
+Spruce Button(minecraft:spruce_button),,0
+Spruce Door(minecraft:spruce_door),427,0
+Spruce Fence Gate(minecraft:spruce_fence_gate),183,0
+Spruce Pressure Plate(minecraft:spruce_pressure_plate),,0
+Spruce Sign(minecraft:spruce_sign),,0
+Spruce Stairs(minecraft:spruce_stairs),134,0
+Spruce Trapdoor(minecraft:spruce_trapdoor),,0
+White Stained Glass(minecraft:stained_glass),95,0
+Orange Stained Glass(minecraft:stained_glass),95,1
+Magenta Stained Glass(minecraft:stained_glass),95,2
+Light Blue Stained Glass(minecraft:stained_glass),95,3
+Yellow Stained Glass(minecraft:stained_glass),95,4
+Lime Stained Glass(minecraft:stained_glass),95,5
+Pink Stained Glass(minecraft:stained_glass),95,6
+Gray Stained Glass(minecraft:stained_glass),95,7
+Light Gray Stained Glass(minecraft:stained_glass),95,8
+Cyan Stained Glass(minecraft:stained_glass),95,9
+Purple Stained Glass(minecraft:stained_glass),95,10
+Blue Stained Glass(minecraft:stained_glass),95,11
+Brown Stained Glass(minecraft:stained_glass),95,12
+Green Stained Glass(minecraft:stained_glass),95,13
+Red Stained Glass(minecraft:stained_glass),95,14
+Black Stained Glass(minecraft:stained_glass),95,15
+White Stained Glass Pane(minecraft:stained_glass_pane),160,0
+Orange Stained Glass Pane(minecraft:stained_glass_pane),160,1
+Magenta Stained Glass Pane(minecraft:stained_glass_pane),160,2
+Light Blue Stained Glass Pane(minecraft:stained_glass_pane),160,3
+Yellow Stained Glass Pane(minecraft:stained_glass_pane),160,4
+Lime Stained Glass Pane(minecraft:stained_glass_pane),160,5
+Pink Stained Glass Pane(minecraft:stained_glass_pane),160,6
+Gray Stained Glass Pane(minecraft:stained_glass_pane),160,7
+Light Gray Stained Glass Pane(minecraft:stained_glass_pane),160,8
+Cyan Stained Glass Pane(minecraft:stained_glass_pane),160,9
+Purple Stained Glass Pane(minecraft:stained_glass_pane),160,10
+Blue Stained Glass Pane(minecraft:stained_glass_pane),160,11
+Brown Stained Glass Pane(minecraft:stained_glass_pane),160,12
+Green Stained Glass Pane(minecraft:stained_glass_pane),160,13
+Red Stained Glass Pane(minecraft:stained_glass_pane),160,14
+Black Stained Glass Pane(minecraft:stained_glass_pane),160,15
+White Terracotta(minecraft:stained_hardened_clay),159,0
+Orange Terracotta(minecraft:stained_hardened_clay),159,1
+Magenta Terracotta(minecraft:stained_hardened_clay),159,2
+Light Blue Terracotta(minecraft:stained_hardened_clay),159,3
+Yellow Terracotta(minecraft:stained_hardened_clay),159,4
+Lime Terracotta(minecraft:stained_hardened_clay),159,5
+Pink Terracotta(minecraft:stained_hardened_clay),159,6
+Gray Terracotta(minecraft:stained_hardened_clay),159,7
+Light Gray Terracotta(minecraft:stained_hardened_clay),159,8
+Cyan Terracotta(minecraft:stained_hardened_clay),159,9
+Purple Terracotta(minecraft:stained_hardened_clay),159,10
+Blue Terracotta(minecraft:stained_hardened_clay),159,11
+Brown Terracotta(minecraft:stained_hardened_clay),159,12
+Green Terracotta(minecraft:stained_hardened_clay),159,13
+Red Terracotta(minecraft:stained_hardened_clay),159,14
+Black Terracotta(minecraft:stained_hardened_clay),159,15
+Stick(minecraft:stick),280,0
+Sticky Piston(minecraft:sticky_piston),29,0
+Stone(minecraft:stone),1,0
+Granite(minecraft:stone),1,1
+Polished Granite(minecraft:stone),1,2
+Diorite(minecraft:stone),1,3
+Polished Diorite(minecraft:stone),1,4
+Andesite(minecraft:stone),1,5
+Polished Andesite(minecraft:stone),1,6
+Stone Axe(minecraft:stone_axe),275,0
+Stone Brick Stairs(minecraft:stone_brick_stairs),109,0
+Stone Button(minecraft:stone_button),77,0
+Stone Hoe(minecraft:stone_hoe),291,0
+Stone Pickaxe(minecraft:stone_pickaxe),274,0
+Stone Pressure Plate(minecraft:stone_pressure_plate),70,0
+Stone Shovel(minecraft:stone_shovel),273,0
+Stone Slab(minecraft:stone_slab),44,0
+Sandstone Slab(minecraft:stone_slab),44,1
+Cobblestone Slab(minecraft:stone_slab),44,3
+Brick Slab(minecraft:stone_slab),44,4
+Stone Brick Slab(minecraft:stone_slab),44,5
+Quartz Slab(minecraft:stone_slab),44,6
+Nether Brick Slab(minecraft:stone_slab),44,7
+Smooth Stone Slab(minecraft:stone_slab),,8
+Red Sandstone Slab(minecraft:stone_slab2),182,0
+Purpur Slab(minecraft:stone_slab2),182,1
+Prismarine Slab(minecraft:stone_slab2),182,2
+Dark Prismarine Slab(minecraft:stone_slab2),182,3
+Prismarine Brick Slab(minecraft:stone_slab2),182,4
+Mossy Cobblestone Slab(minecraft:stone_slab2),,5
+Smooth Sandstone Slab(minecraft:stone_slab2),,6
+Red Nether Brick Slab(minecraft:stone_slab2),,7
+End Stone Brick Slab(minecraft:stone_slab3),,0
+Smooth Red Sandstone Slab(minecraft:stone_slab3),,1
+Polished Andesite Slab(minecraft:stone_slab3),,2
+Andesite Slab(minecraft:stone_slab3),,3
+Diorite Slab(minecraft:stone_slab3),,4
+Polished Diorite Slab(minecraft:stone_slab3),,5
+Granite Slab(minecraft:stone_slab3),,6
+Polished Granite Slab(minecraft:stone_slab3),,7
+Mossy Stone Brick Slab(minecraft:stone_slab4),,0
+Smooth Quartz Slab(minecraft:stone_slab4),,1
+Cut Sandstone Slab(minecraft:stone_slab4),,3
+Cut Red Sandstone Slab(minecraft:stone_slab4),,4
+Cobblestone Stairs(minecraft:stone_stairs),67,0
+Stone Sword(minecraft:stone_sword),272,0
+Stone Bricks(minecraft:stonebrick),98,0
+Mossy Stone Bricks(minecraft:stonebrick),98,1
+Cracked Stone Bricks(minecraft:stonebrick),98,2
+Chiseled Stone Bricks(minecraft:stonebrick),98,3
+String(minecraft:string),287,0
+Stripped Acacia Log(minecraft:stripped_acacia_log),,0
+Stripped Birch Log(minecraft:stripped_birch_log),,0
+Stripped Dark Oak Log(minecraft:stripped_dark_oak_log),,0
+Stripped Jungle Log(minecraft:stripped_jungle_log),,0
+Stripped Oak Log(minecraft:stripped_oak_log),,0
+Stripped Spruce Log(minecraft:stripped_spruce_log),,0
+Structure Block(minecraft:structure_block),,0
+Sugar(minecraft:sugar),353,0
+Grass(minecraft:tallgrass),31,1
+Fern(minecraft:tallgrass),31,2
+TNT(minecraft:tnt),46,0
+Minecart with TNT(minecraft:tnt_minecart),407,0
+Torch(minecraft:torch),50,0
+Totem of Undying(minecraft:totem),449,0
+Oak Trapdoor(minecraft:trapdoor),96,0
+Trapped Chest(minecraft:trapped_chest),146,0
+Trident(minecraft:trident),,0
+Tripwire Hook(minecraft:tripwire_hook),131,0
+Turtle Egg(minecraft:turtle_egg),,0
+Turtle Shell(minecraft:turtle_helmet),,0
+Scute(minecraft:turtle_shell_piece),,0
+Shulker Box(minecraft:undyed_shulker_box),,0
+Vines(minecraft:vine),106,0
+Water(minecraft:water),8,0
+Lily Pad(minecraft:waterlily),111,0
+Cobweb(minecraft:web),30,0
+Wheat(minecraft:wheat),296,0
+Seeds(minecraft:wheat_seeds),295,0
+White Glazed Terracotta(minecraft:white_glazed_terracotta),235,0
+Wooden Axe(minecraft:wooden_axe),271,0
+Oak Button(minecraft:wooden_button),143,0
+Oak Door(minecraft:wooden_door),324,0
+Wooden Hoe(minecraft:wooden_hoe),290,0
+Wooden Pickaxe(minecraft:wooden_pickaxe),270,0
+Oak Pressure Plate(minecraft:wooden_pressure_plate),72,0
+Wooden Shovel(minecraft:wooden_shovel),269,0
+Oak Slab(minecraft:wooden_slab),126,0
+Spruce Slab(minecraft:wooden_slab),126,1
+Birch Slab(minecraft:wooden_slab),126,2
+Jungle Slab(minecraft:wooden_slab),126,3
+Acacia Slab(minecraft:wooden_slab),126,4
+Dark Oak Slab(minecraft:wooden_slab),126,5
+Wooden Sword(minecraft:wooden_sword),268,0
+White Wool(minecraft:wool),35,0
+Orange Wool(minecraft:wool),35,1
+Magenta Wool(minecraft:wool),35,2
+Light Blue Wool(minecraft:wool),35,3
+Yellow Wool(minecraft:wool),35,4
+Lime Wool(minecraft:wool),35,5
+Pink Wool(minecraft:wool),35,6
+Gray Wool(minecraft:wool),35,7
+Light Gray Wool(minecraft:wool),35,8
+Cyan Wool(minecraft:wool),35,9
+Purple Wool(minecraft:wool),35,10
+Blue Wool(minecraft:wool),35,11
+Brown Wool(minecraft:wool),35,12
+Green Wool(minecraft:wool),35,13
+Red Wool(minecraft:wool),35,14
+Black Wool(minecraft:wool),35,15
+Book and Quill(minecraft:writable_book),386,0
+Written Book(minecraft:written_book),387,0
+Dandelion(minecraft:yellow_flower),37,0
+Yellow Glazed Terracotta(minecraft:yellow_glazed_terracotta),239,0
