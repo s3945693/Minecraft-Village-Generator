@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8375727&assignment_repo_type=AssignmentRepo)
 # Minecraft Village
 This is the README file for Assignment 1 in Programming Studio 2 (COSC2804).
 
@@ -35,5 +34,3 @@ Zahoor: 20%
 - Implemented randomisation of block materials
 - Extensively collaborated with Andrew
 
-VIDEO LINK:
-https://youtu.be/nIOhGWp0-lI
